@@ -7,7 +7,7 @@ This script uses bioinformatics tools to query amino acid sequences to identify 
 ## Usage
 Usage of the script is 
 
-```homologs_identify.sh <query.faa> <subject.fna> <bedfile> <outfile>```
+**homologs_identify.sh <query.faa> <subject.fna> <bedfile> <outfile>**
 
 For example:
 
