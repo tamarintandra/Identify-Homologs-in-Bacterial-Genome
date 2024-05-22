@@ -5,9 +5,7 @@ Many genes encode for proteins. Within a folded protein, there are specific regi
 This script uses bioinformatics tools to query amino acid sequences to identify homologous sequences in bacterial genome. Then, it reads a BED file to determine which genes contain the identified HK domains. The BED file contains genomic coordinates for genes. The script outputs the unique gene names, which have been identified as containing the predicted HK domains.
 
 ## Usage
-Usage of the script is 
-
-**homologs_identify.sh <query.faa> <subject.fna> <bedfile> <outfile>**
+Usage of the script is **homologs_identify.sh <query.faa> <subject.fna> <bedfile> <outfile>**
 
 For example:
 
